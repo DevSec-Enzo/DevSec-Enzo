@@ -86,7 +86,7 @@ Meu objetivo de longo prazo é me especializar em **Red Team**, mantendo uma bas
 
 ## 📚 Como eu estudo
 
-Meu aprendizado é baseado principalmente em **prática e documentação**.
+Eu aprendo principalmente por meio de **prática e documentação**.
 
 ```text
 Estudar conceito
@@ -103,16 +103,6 @@ Transformar em projeto ou write-up
 ```
 
 A documentação dos projetos busca registrar não apenas **o que foi feito**, mas também **por que foi feito**, quais evidências foram encontradas e quais conclusões podem ser obtidas a partir dos resultados.
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSec-Enzo\&show_icons=true\&theme=radical\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSec-Enzo\&layout=compact\&theme=radical\&hide_border=true)
-
-</div>
 
 ## 📫 Contato
 

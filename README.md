@@ -85,8 +85,6 @@ Meu objetivo de longo prazo é me especializar em **Red Team**, mantendo uma bas
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat\&logo=tryhackme\&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 
-A documentação dos projetos busca registrar não apenas **o que foi feito**, mas também **por que foi feito**, quais evidências foram encontradas e quais conclusões podem ser obtidas a partir dos resultados.
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/enzo-almeida-sec/)

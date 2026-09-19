@@ -83,24 +83,7 @@ Meu objetivo de longo prazo é me especializar em **Red Team**, mantendo uma bas
 ### Plataformas de laboratório
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat\&logo=tryhackme\&logoColor=white)
-
-## 📚 Como eu estudo
-
-Eu aprendo principalmente por meio de **prática e documentação**.
-
-```text
-Estudar conceito
-      ↓
-Aplicar em laboratório
-      ↓
-Investigar / testar
-      ↓
-Documentar o processo
-      ↓
-Identificar o que poderia ser melhorado
-      ↓
-Transformar em projeto ou write-up
-```
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 
 A documentação dos projetos busca registrar não apenas **o que foi feito**, mas também **por que foi feito**, quais evidências foram encontradas e quais conclusões podem ser obtidas a partir dos resultados.
 

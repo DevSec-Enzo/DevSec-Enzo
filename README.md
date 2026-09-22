@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Enzo 👋
 
-### Cybersecurity | Blue Team em desenvolvimento | Red Team como foco de carreira
+### Cybersecurity | Red Team | Blue Team
 
 </div>
 

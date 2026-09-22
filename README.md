@@ -27,14 +27,14 @@ Tenho interesse em oportunidades como:
 * 🔵 Analista de Segurança Jr.
 * 🔵 SOC Analyst Jr.
 * 🔴 Pentest / Red Team Jr.
-* 🟣 Security Analyst / funções relacionadas a Purple Team
+* 🟣 Security Analyst
 * 🛡️ Outras posições de entrada em Cibersegurança
 
 Meu objetivo de longo prazo é me especializar em **Red Team**, mantendo uma base sólida em defesa para compreender o ciclo completo de um ataque: **identificação → exploração → detecção → resposta → mitigação**.
 
 ## 🧠 Áreas de estudo
 
-### 🔴 Red Team — foco de carreira
+### 🔴 Red Team
 
 * Reconhecimento e enumeração
 * Network scanning
@@ -45,7 +45,7 @@ Meu objetivo de longo prazo é me especializar em **Red Team**, mantendo uma bas
 * Metodologias de Pentest
 * Documentação e elaboração de write-ups
 
-### 🔵 Blue Team — foco atual de desenvolvimento
+### 🔵 Blue Team
 
 * Análise de logs
 * Monitoramento de eventos
@@ -55,13 +55,6 @@ Meu objetivo de longo prazo é me especializar em **Red Team**, mantendo uma bas
 * Investigação de incidentes
 * SIEM
 * Resposta a incidentes
-
-### 🟣 Purple Team — objetivo de integração
-
-* Relacionar técnicas ofensivas com mecanismos de detecção
-* Validar se determinados ataques são identificáveis
-* Transformar achados de Pentest em oportunidades de melhoria defensiva
-* Desenvolver entendimento de ataque e defesa no mesmo ambiente
 
 ## 🛠️ Tecnologias e ferramentas
 

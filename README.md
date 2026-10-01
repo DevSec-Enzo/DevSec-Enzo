@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Enzo 👋
 
-### Cybersecurity | Red Team | Blue Team
+### Cybersecurity | Red Team
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🎯 Sobre mim
 
-Estou construindo minha carreira em **Cibersegurança**, desenvolvendo conhecimentos tanto em **defesa (Blue Team)** quanto em **segurança ofensiva (Red Team)**.
+Estou construindo minha carreira em **Cibersegurança**, desenvolvendo conhecimentos em **segurança ofensiva**.
 
 Meu objetivo de carreira é atuar em **Red Team / Pentest**, utilizando a experiência adquirida em defesa para compreender melhor como ataques são identificados, investigados e mitigados.
 
@@ -24,13 +24,9 @@ Busco minha **primeira oportunidade profissional em Cibersegurança**, com prefe
 
 Tenho interesse em oportunidades como:
 
-* 🔵 Analista de Segurança Jr.
 * 🔵 SOC Analyst Jr.
 * 🔴 Pentest / Red Team Jr.
 * 🟣 Security Analyst
-* 🛡️ Outras posições de entrada em Cibersegurança
-
-Meu objetivo de longo prazo é me especializar em **Red Team**, mantendo uma base sólida em defesa para compreender o ciclo completo de um ataque: **identificação → exploração → detecção → resposta → mitigação**.
 
 ## 🧠 Áreas de estudo
 

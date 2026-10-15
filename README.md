@@ -12,15 +12,18 @@
 
 Estou construindo minha carreira em **Cibersegurança**, desenvolvendo conhecimentos em **segurança ofensiva**.
 
-Meu objetivo de carreira é atuar em **Red Team** realizando **Pentest** em WEB, SO, AD e Cloud.
+Meu objetivo é atuar em Red Team, realizando Pentest em aplicações Web, Sistemas Operacionais, Active Directory e Cloud.
 
 Atualmente, minhas experiências estão sendo criadas através de laboratórios práticos, desafios de CTF e projetos pessoais. Tudo sendo documentado.
 
 ## 🚀 Tenho interesse em oportunidades como:
 
-* 🔴 Pentest / Red Team Jr.
-*  🔵 Jr. QA Analyst
-* 🟣 Security Analyst
+* Junior Penetration Tester
+* Offensive Security Analyst
+* Offensive Security Engineer
+* Red Team Analyst
+* Application Security Analyst
+* Web Application Security Analyst
 
 ## 🧠 Áreas de estudo
 

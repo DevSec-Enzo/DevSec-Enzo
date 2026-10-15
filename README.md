@@ -14,7 +14,7 @@ Estou construindo minha carreira em **Cibersegurança**, desenvolvendo conhecime
 
 Meu objetivo de carreira é atuar em **Red Team** realizando **Pentest** em WEB, SO, AD e Cloud.
 
-Atualmente, minhas experiências estão sendo criadas através de laboratórios práticos., desafios de CTF e projetos pessoais. Tudo sendo documentado.
+Atualmente, minhas experiências estão sendo criadas através de laboratórios práticos, desafios de CTF e projetos pessoais. Tudo sendo documentado.
 
 ## 🚀 Tenho interesse em oportunidades como:
 

@@ -12,41 +12,28 @@
 
 Estou construindo minha carreira em **Cibersegurança**, desenvolvendo conhecimentos em **segurança ofensiva**.
 
-Meu objetivo de carreira é atuar em **Red Team / Pentest**, utilizando a experiência adquirida em defesa para compreender melhor como ataques são identificados, investigados e mitigados.
+Meu objetivo de carreira é atuar em **Red Team** realizando **Pentest** em WEB, SO, AD e Cloud.
 
-Atualmente, estou direcionando parte dos meus estudos para **Blue Team e SOC**, buscando desenvolver experiência prática em monitoramento, análise de eventos, investigação e resposta a incidentes.
+Atualmente, minhas experiências estão sendo criadas através de laboratórios práticos., desafios de CTF e projetos pessoais. Tudo sendo documentado.
 
-Aprendo principalmente através de **laboratórios, desafios práticos e projetos**, documentando o processo para consolidar e compartilhar meu conhecimento.
+## 🚀 Tenho interesse em oportunidades como:
 
-## 🚀 Objetivo profissional
-
-Busco minha **primeira oportunidade profissional em Cibersegurança**, com preferência por posições que permitam desenvolver experiência prática em ambientes reais.
-
-Tenho interesse em oportunidades como:
-
-* 🔵 SOC Analyst Jr.
 * 🔴 Pentest / Red Team Jr.
+*  🔵 Jr. QA Analyst
 * 🟣 Security Analyst
 
 ## 🧠 Áreas de estudo
-
-### 🔴 Red Team
 
 * Reconhecimento e enumeração
 * Network scanning
 * Web reconnaissance
 * Vulnerabilidades web
-* Exploração em ambientes controlados
 * Privilege escalation
 * Metodologias de Pentest
 * Documentação e elaboração de write-ups
-
-### 🔵 Blue Team
-
 * Análise de logs
 * Monitoramento de eventos
 * Network traffic analysis
-* Identificação de indicadores de comprometimento
 * Detecção de atividades suspeitas
 * Investigação de incidentes
 * SIEM
